@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ecommerce Mobile App</string>
+    <string name="splash_title">Live Your\nPerfect</string>
+    <string name="splash_sub_title"><![CDATA[Smart, gorgeous & fashionable\n collection makes you cool]]></string>
+    <string name="start">Start</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="favourite">Favourite</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sell_all">Sell All</string>
+    <string name="popular_brands">Popular Brands</string>
+    <string name="men_s_shoes">Men\'s Shoes</string>
+    <string name="_7_5">(7.5)</string>
+    <string name="_290_00">$290.00</string>
+    <string name="nike_air_max_270">Nike Air Max 270</string>
+    <string name="size">Size:</string>
+    <string name="us">US</string>
+    <string name="uk">UK</string>
+    <string name="eu">EU</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="free_delivery_and_returns">Free Delivery and Returns</string>
+    <string name="description">Description</string>
+    <string name="expand">expand</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="_5_5">5.5</string>
+    <string name="cloude">Cloude</string>
+    <string name="firestore">FireStore</string>
+    <string name="_250_00">$250.00</string>
+    <string name="nike_air_vapormax_2020">Nike Air Vapormax 2020</string>
+    <string name="sub_header">Sub Header</string>
+</resources>

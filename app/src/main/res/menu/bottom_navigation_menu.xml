@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_page"
+        android:enabled="true"
+        android:icon="@drawable/home_item"
+        android:title="@string/home"
+        />
+    <item
+        android:id="@+id/cart_page"
+        android:enabled="true"
+        android:icon="@drawable/cart_item"
+        android:title="@string/cart"/>
+    <item
+        android:id="@+id/favourite_page"
+        android:enabled="true"
+        android:icon="@drawable/favourite_item"
+        android:title="@string/favourite"/>
+    <item
+        android:id="@+id/search_page"
+        android:enabled="true"
+        android:icon="@drawable/search_item"
+        android:title="@string/search"/>
+</menu>

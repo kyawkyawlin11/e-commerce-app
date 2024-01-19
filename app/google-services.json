@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674273325135",
+    "project_id": "e-commerce-app-e29e9",
+    "storage_bucket": "e-commerce-app-e29e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674273325135:android:4e33b48ad05a9bcbfcba3a",
+        "android_client_info": {
+          "package_name": "com.visibleone.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZu55s6Ti2cx6jOEJUJT8aLqSvdEKvSdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
