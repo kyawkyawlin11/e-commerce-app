@@ -23,7 +23,10 @@ public class SplashActivity extends AppCompatActivity {
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(myView);
 
-        binding.btnStart.setOnClickListener(view -> startActivity(new Intent(SplashActivity.this,MainActivity.class)));
+        binding.btnStart.setOnClickListener(view -> {
+            startActivity(new Intent(SplashActivity.this,MainActivity.class));
+            finish();
+        });
     }
     @Override
     protected void onStart() {
