@@ -87,7 +87,7 @@ public class DetailActivity extends AppCompatActivity {
             }
             colorAdapter.setUpdateList(list);
         });
-
+        binding.tvUsSize.setTextColor(getColor(R.color.orange));
         binding.tvUsSize.setOnClickListener((view -> {
             type = "us";
             binding.tvUsSize.setTextColor(getColor(R.color.orange));
